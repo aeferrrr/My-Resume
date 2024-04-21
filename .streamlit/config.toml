@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#d33682"
+backgroundColor = "#4c95ac"  # Mengubahnya menjadi warna putih
+secondaryBackgroundColor = "#586e75"
+textColor = "#fff"
